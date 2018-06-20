@@ -7,6 +7,7 @@
     "node": ">=4"
   },
   "scripts": {
+    "build": "echo \"No build\"",
     "lint": "grunt",
     "test": "mocha",
     "coverage": "istanbul cover _mocha",
