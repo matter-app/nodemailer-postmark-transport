@@ -7,9 +7,11 @@
     "node": ">=4"
   },
   "scripts": {
-    "build": "echo \"No build\"",
-    "lint": "grunt",
-    "test": "mocha",
+    "build": "echo \"No build @matterapp/nodemailer-postmark-transport\"",
+    "lint": "echo \"No lint @matterapp/nodemailer-postmark-transport\"",
+    "test": "echo \"No test @matterapp/nodemailer-postmark-transport\"",
+    "_lint": "grunt",
+    "_test": "mocha",
     "coverage": "istanbul cover _mocha",
     "coveralls": "npm run coverage && coveralls < coverage/lcov.info"
   },
