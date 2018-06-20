@@ -1,5 +1,5 @@
 {
-  "name": "nodemailer-postmark-transport",
+  "name": "@matterapp/nodemailer-postmark-transport",
   "version": "1.3.0",
   "description": "Postmark transport for Nodemailer",
   "main": "index.js",
